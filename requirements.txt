@@ -1,0 +1,9 @@
+tavily-python
+langchain
+langchain_community
+langchain-groq
+python-dotenv
+ipykernel
+groq
+agno
+streamlit
